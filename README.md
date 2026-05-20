@@ -1,14 +1,11 @@
-
 <div align="left">
 
-```
-// dev & builder
-```
+![banner](./banner.svg)
 
-# Raphael Johny
+<br>
 
-Desenvolvedor web full stack com foco em React e Node.js.  
-Construo aplicações reais e integro IA onde faz sentido.  
+Desenvolvedor web full stack com foco em React e Node.js.
+Construo aplicações reais e integro IA onde faz sentido.
 Disponível para projetos freelance.
 
 ---
