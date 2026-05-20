@@ -24,11 +24,15 @@ Disponível para projetos freelance.
 
 ### Projetos
 
+📱 **[EscalaPlantões](https://play.google.com/store/apps/details?id=br.com.escalaplantoes)**  
+App Android para trabalhadores de saúde e segurança em escala rotativa. Cálculo automático de turnos, calendário visual, folha de ponto em PDF, widget e assistente IA com Gemini integrado.  
+`Android` `Gemini AI` `Play Store`
+
 🤖 **[Bot GTA RP](https://github.com/rjohny-dev/botdc)**  
 Bot de gerenciamento para servidor de roleplay com rastreamento de ações por cargo e menus interativos.  
 `Node.js` `Discord.js`
 
-🚧 **Em breve** — Novo projeto com IA integrada.  
+🚧 **Em breve** — Novo projeto web com IA integrada.  
 `React` `Node.js` `IA`
 
 ---
