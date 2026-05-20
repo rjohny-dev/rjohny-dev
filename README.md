@@ -24,10 +24,12 @@ Disponível para projetos freelance.
 
 ### Projetos
 
-| Projeto | Descrição | Tech |
-|---|---|---|
-| 🤖 [Bot GTA RP](https://github.com/rjohny-dev/botdc) | | Bot de gerenciamento para servidor de roleplay com rastreamento de ações por cargo e menus interativos | `Node.js` `Discord.js` |
-| `React` `Node.js` `IA` `Discord`|
+🤖 **[Bot GTA RP](https://github.com/rjohny-dev/botdc)**
+Bot de gerenciamento para servidor de roleplay com rastreamento de ações por cargo e menus interativos.
+`Node.js` `Discord.js`
+
+🚧 **Em breve** — Novo projeto com IA integrada.
+`React` `Node.js` `IA`
 
 ---
 
