@@ -1,0 +1,30 @@
+<svg width="100%" viewBox="0 0 680 160" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>Banner de perfil — Raphael Johny</title>
+  <desc>Banner com nome, título e identidade visual azul e verde</desc>
+
+  <rect width="680" height="160" fill="#0d1117"/>
+
+  <rect x="0" y="0" width="4" height="160" fill="#1D9E75"/>
+  <rect x="676" y="0" width="4" height="160" fill="#378ADD"/>
+
+  <rect x="40" y="50" width="1" height="60" fill="#1D9E75" opacity="0.4"/>
+
+  <text x="60" y="72" font-family="monospace" font-size="12" fill="#1D9E75" opacity="0.8">// full stack developer</text>
+
+  <text x="60" y="105" font-family="monospace" font-size="36" font-weight="700" fill="#ffffff" letter-spacing="-1">Raphael Johny</text>
+
+  <text x="61" y="130" font-family="monospace" font-size="13" fill="#378ADD">React</text>
+  <text x="116" y="130" font-family="monospace" font-size="13" fill="#5F5E5A">·</text>
+  <text x="128" y="130" font-family="monospace" font-size="13" fill="#378ADD">Node.js</text>
+  <text x="193" y="130" font-family="monospace" font-size="13" fill="#5F5E5A">·</text>
+  <text x="205" y="130" font-family="monospace" font-size="13" fill="#378ADD">JavaScript</text>
+  <text x="293" y="130" font-family="monospace" font-size="13" fill="#5F5E5A">·</text>
+  <text x="305" y="130" font-family="monospace" font-size="13" fill="#1D9E75">IA integrada</text>
+
+  <rect x="580" y="60" width="70" height="22" rx="4" fill="none" stroke="#1D9E75" stroke-width="1"/>
+  <text x="615" y="75" font-family="monospace" font-size="11" fill="#1D9E75" text-anchor="middle">disponível</text>
+
+  <circle cx="610" cy="108" r="18" fill="none" stroke="#378ADD" stroke-width="0.5" opacity="0.3"/>
+  <circle cx="640" cy="85" r="10" fill="none" stroke="#1D9E75" stroke-width="0.5" opacity="0.2"/>
+  <circle cx="595" cy="125" r="6" fill="none" stroke="#378ADD" stroke-width="0.5" opacity="0.2"/>
+</svg>
