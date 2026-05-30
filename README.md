@@ -40,6 +40,8 @@ Bot de gerenciamento para servidor de roleplay com rastreamento de ações por c
 ### Certificações recentes
 
 ```
+✓  Análise e Desenvolvimento de Sistemas     — Estácio 2024 (Ensino Superior/Graduação)
+✓  Administração de Banco de Dados           — Anhanguera 2026 (Pós Graduação)
 ✓  Produtividade com IA no Desenvolvimento   —  B7Web  2026
 ✓  Prompt Engineering para Desenvolvedores   —  B7Web  2026
 ✓  Fundamentos da IA para Programadores      —  B7Web  2026
