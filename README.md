@@ -59,6 +59,6 @@ Plataforma SaaS de cardápio digital para restaurantes. Clientes acessam o menu 
 ### Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=378ADD)](https://www.linkedin.com/in/raphael-johny-93a331213/)
-![Status](https://img.shields.io/badge/disponível_para_freelas-1D9E75?style=flat-square)[WhatsApp](https://wa.me/5524993078963)
+![Status](https://img.shields.io/badge/disponível_para_freelas-1D9E75?style=flat-square)(https://wa.me/5524993078963)
 
 </div>
