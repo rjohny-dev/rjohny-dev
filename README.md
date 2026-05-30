@@ -32,6 +32,11 @@ App Android para trabalhadores de saúde e segurança em escala rotativa. Cálcu
 Bot de gerenciamento para servidor de roleplay com rastreamento de ações por cargo e menus interativos.  
 `Node.js` `Discord.js`
 
+📱 **[MenuQR](https://github.com/rjohny-dev/menuqr)**
+Plataforma SaaS de cardápio digital para restaurantes. Clientes acessam o menu via QR Code e enviam pedidos diretamente para o WhatsApp do estabelecimento. Desenvolvido com autenticação segura, upload de arquivos e arquitetura multi-tenant.
+`React` `Node.js` `PostgreSQL` `WhatsApp QR Code` `Vercel`
+
+
 🚧 **Em breve** — Novo projeto web com IA integrada.  
 `React` `Node.js` `IA`
 
