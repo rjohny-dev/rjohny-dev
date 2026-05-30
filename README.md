@@ -15,10 +15,11 @@ Disponível para projetos freelance.
 ![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=1D9E75)
 ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=1D9E75)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=flat-square&logo=sqlite&logoColor=378ADD)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)
+![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=flat-square&logo=sqlite&logoColor=378ABD)
 ![JWT](https://img.shields.io/badge/JWT-0d1117?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Cloudflare R2](https://img.shields.io/badge/Cloudflare%20R2-0d1117?style=flat-square&logo=cloudflare&logoColor=F38020)
 ![Railway](https://img.shields.io/badge/Railway-0d1117?style=flat-square&logo=railway&logoColor=white)
-![Discord.js](https://img.shields.io/badge/Discord.js-0d1117?style=flat-square&logo=discord&logoColor=5865F2)
 
 ---
 
